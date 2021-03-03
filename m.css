@@ -1,0 +1,883 @@
+.mai
+{
+    /* background:linear-gradient(to right ,#9c27b0,#8ecdff); */
+ 
+ /* overflow-y: auto; */
+ /* overflow-x: auto; */
+ width: 102%;
+ height: 350%;   
+ 
+ animation-name: bwh;
+ animation-duration: 10s;
+ animation-iteration-count: 1;
+}
+.m
+{
+       background-image: url('5085-planets-and-moons-in-universe-hq-image-free-wallpaper.jpg');
+       animation-name: bwh26;
+ animation-duration: 30s;
+ /* background-repeat: no-repeat; */
+ overflow-y: auto;
+ animation-iteration-count: infinite;
+ border-radius: 100px;
+    /* background-repeat: no-repeat; */
+ 
+}
+.snow
+{
+    border-radius: 50%;
+    opacity: 0.8;
+}
+@keyframes bwh
+{
+    0%
+    {
+        width: 0%;
+        height: 0%;
+          overflow-y: auto;
+ overflow-x: auto;
+        background-color: white;
+        animation-name: none;
+        font-size: 0ex;
+        top: 0px;
+        border-radius: 200000px;
+  
+        left: 0px;
+        transform: rotate(90deg);
+    }
+    /* azure */
+    50%
+    {
+        border-radius: 200000px;
+        transform: rotate(300deg);
+                 overflow-y: auto;
+ overflow-x: auto;
+    }
+    90%
+    {
+          overflow-y: auto;
+ overflow-x: auto;
+        /* background-image: url(none); */
+    }
+}
+@keyframes bwh26
+{
+    10%
+    {
+        background-image: url('838480.jpg');
+    }
+    20%
+    {
+         background-image: url('58603f9aaca3a.jpg');
+    }
+    30%
+    {
+          background-image: url('487513.jpg');
+    }
+    40%
+    {
+        background-image: url('79384.jpg');
+    }
+    50%
+    {
+        background-image: url('139-1394474_planets-universe-4-4k-hd-desktop-wallpaper.jpg');
+    }
+    60%
+    {
+background-image: url('un.jpg');
+    }
+    70%
+    {
+background-image: url('soldier-76-2560x1600-overwatch-hd-7695.jpg');
+    }
+    80%
+    {
+background-image: url('Lst.jpg');
+    }
+    90%
+    {
+ background-image: url('Piramide_del_Sol_072006.jpg');
+        /* background-image: url(none); */
+    }
+}
+/* universe 4k wallpaper */
+::-webkit-scrollbar
+{
+    color: aliceblue;
+    background:linear-gradient(to right ,#9c27b0,#8ecdff);
+    border-radius: 50px;
+    padding: 0.1px;
+    height: 0.1px;
+    animation-name: bwh;
+ animation-duration: 10s;
+ animation-iteration-count: 1;
+}
+::-webkit-scrollbar-thumb
+{
+    /* color: aliceblue; */
+    background:linear-gradient(to right ,#3e6d6d,#ff8ecc);
+    border-radius: 6px;
+    border-radius: 50px;
+    padding: 0.1px;
+}
+::-webkit-scrollbar-thumb:hover
+{
+    background:linear-gradient(transparentright ,#3e6d6d,#ff8ecc);
+    border-radius: 50px;
+    padding: 0.1px;
+    height: 0.1px;
+}
+/* ::-webkit-meter-optimum-value */
+/* { */
+  /* va */
+/* } */
+/* .clr
+{
+    width:1900px;
+	height:1320px;
+	position:absolute;
+	top:0;
+	left:0;
+	border-radius:40%;
+	background:white;
+    animation: rotets linear .1sc,infinite;
+    background-image: url('200w\ \(1\).webp');
+} */
+/* .cr */
+/* { */
+    /* top: 0px; */
+    /* left: 0px; */
+    /* width: 100px; */
+    /* border-top: 100px solid rgb(216, 11, 11); */
+    /* border-right:50px solid transparent; */
+    /* border-left:50px  solid transparent; */
+    /* background-image: url('100w.webp'); */
+
+/* } */
+.nfsg
+{
+    height: 5;
+    border-radius: 50px;
+}
+.nfsg li a
+{
+    animation-name: p1;
+ animation-duration: 10s;
+ animation-iteration-count: infinite;
+   position: relative;
+   top: 300px;
+   left: 100px;
+   /* color: black; */
+   background-image: url('79384..gif');
+   /* background-image: url('h.jpg'); */
+   /* background-color: rgb(248, 247, 247); */
+   font-size: 10ex;
+   color: #faf9f900;
+   border-radius: 50px;
+   font-weight: 200;
+}
+.NFS li a
+{
+   position: relative;
+   top: 220px;
+   left: 650px;
+   color: black;
+   /* background-color: rgb(248, 247, 247); */
+   font-size: 10ex;
+   font-weight: 200;
+   border-radius: 50px;
+}
+.NFSb li a
+{
+   position: relative;
+   top: 140px;
+   left: 1120px;
+   color: black;
+   /* background-color: rgb(248, 247, 247); */
+  font-size: 10ex;
+   font-weight: 200;
+   border-radius: 50px;
+}
+.nhtml li a
+{
+   position: relative;
+   border-radius: 50px;
+   top: 90px;
+   left: 1610px;
+   color: black;
+   /* background-color: rgb(248, 247, 247); */
+   font-size: 6ex;
+   font-weight: 200;
+}
+.m input
+{
+    border-radius: 1050px;
+    /* padding: 100px; */
+    position: relative;
+    left: 80px;
+    top: 550px;
+ width: 1650px;
+ font-size: large;
+ height: 40px;
+ color: #8ecdff;
+ animation-name: fr7;
+ animation-duration: 1s;
+ animation-iteration-count: infinite;
+ /* background-color:cadetblue; */
+ background-image: url('100w.webp');
+}
+.m button
+{
+    border-radius: 50px;
+    animation-name: fr7;
+ animation-duration: 1s;
+ animation-iteration-count: infinite;
+    position: relative;
+    top: 550px;
+    /* background-color: aliceblue; */
+    background-image: url('100w.webp');
+    color: #8eff97;
+ left:20px ;
+ font-size: large;
+ height: 40px;
+ width: 190px;
+ box-shadow: 0, 0 , 0 , 20px black;
+}
+.b_info
+{
+        position: relative;
+    left: 0px;
+    color: rgb(243, 140, 23);
+    /* background-color: brown; */
+    /* background-color: blue; */
+ width: 900px;
+ /* font-size: large; */
+ /* font-size: large; */
+ font-language-override: inherit;
+ font: outline;
+
+ height: 15px;
+ background-color: brown;
+ background-image: url('838480.jpg');
+  animation-name: fr;
+ animation-duration: 1s;
+ animation-iteration-count: infinite;
+ border-radius: 50px;
+}
+.b_info_t h1
+{
+    border-radius: 50px;
+    position: relative;
+    color: blue;
+
+    /* top: 50px; */
+    /* left: 0px; */
+    /* width: 900px; */
+    /* height: 700px; */
+/* background-image: url('200w.webp'); */
+}
+.b_info_t h6
+{border-radius: 50px;
+       position: relative;
+    left: 0px;
+    top: 1290px;
+    /* background-color: brown; */
+    /* background-color: blue; */
+ width: 900px;
+ height: 500px;
+    overflow-y: auto;
+ overflow-x: auto;
+ /* font-size: large; */
+ /* font-size: large; */
+ font-language-override: inherit;
+ overflow-y: auto;
+ overflow-x: auto;
+ font: outline;
+color: rgb(240, 27, 27);
+background-image: url('139-1394474_planets-universe-4-4k-hd-desktop-wallpaper.jpg');
+animation-name: fr1;
+ animation-duration: 10s;
+ animation-iteration-count: infinite;
+/* font-size: x-small; */
+ /* height: 0%; */
+  /* background:linear-gradient(to right ,#9c27b0,#8ecdff,red,yellow); */
+ /* background-color: brown; */
+}
+.b_info_t li a 
+{
+    border-radius: 50px;
+    position: relative;
+    left: 340px;
+    top: 1000px;
+    width: 10px;
+    /* background:linear-gradient(to right ,#9c27b0,#8ecdff); */
+    font-size: large;
+    /* background-image: url('images.jpg'); */
+    height: 0;
+    color: #8ecdff;
+   /* color: #bb2d23; */
+    /* background-image: url('DOWN.png'); */
+    /* background-color: brown; */
+}
+.bd li a 
+{
+    border-radius: 50px;
+    position: relative;
+    left: 0px;
+    top: 1320px;
+    background-image: url('300w.webp');
+    animation-name: fr7;
+    
+ animation-duration: 1s;
+ animation-iteration-count: infinite;
+    /* width: 50px; */
+    /* background-color: rgba(216, 34, 34, 0.61); */
+    /* background-image: url('images.jpg'); */
+    /* height: 10; */
+    /* background-image: url('DOWN.png'); */
+    /* background-color: brown; */
+}
+/* .down */
+/* { */
+    /* background-image: url('DOWN.png'); */
+/* } */
+.uio
+{
+    border-radius: 50px;
+    position: relative;
+    background-image: url('bolt-833abd37a346cf4f0ef363c879bc0b190f5221d927fc48835b759a4bd0f23496.gif');
+    background-repeat: no-repeat;
+    width: 900px;
+    height:630px ;
+    overflow-x: auto;
+                   overflow-y: auto;
+    width: 940px;
+    top: 0px;
+    left: 950px;
+           animation-name: noi3;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+
+.b
+{
+    border-radius: 50px;
+    position: relative;
+    left: 0;
+    top: 20;
+    background-image: url('hello-9cd50f821f6f6c6abddd9cd13b197fae68b3452c92c3321fefccce1f3c0e8ce4.gif');
+    width: 950px;
+    height: 630px;
+    background-repeat: no-repeat;
+       animation-name: noi1;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.b h1
+{
+    border-radius: 50px;
+ position: relative;
+ left: 950px;
+ color: rgb(163, 255, 127);
+ background-image: url('100w.webp'); 
+  animation-name: fr3;
+ animation-duration: 1s;
+ animation-iteration-count: infinite;
+}
+.b h6
+{
+    border-radius: 50px;
+ position: relative;
+ left: 950px;
+ color: aquamarine;
+ background-image: url('139-1394474_planets-universe-4-4k-hd-desktop-wallpaper.jpg'); 
+animation-name: fr2;
+ animation-duration: 10s;
+    overflow-y: auto;
+ overflow-x: auto;
+ animation-iteration-count: infinite;
+ overflow-y: auto;
+ overflow-x: auto;
+}
+.mk li a
+{
+    border-radius: 50px;
+ position: relative;
+ left: 10000px;
+ color: #8ecdff;
+ background-image: url('300w.webp');
+ top: 1250px;
+ left: 990px;
+ font-size: large;
+ animation-name: fr7;
+ animation-duration: 1s;
+ animation-iteration-count: infinite;
+}
+.ios
+{
+    border-radius: 50px;
+    animation-name: noi;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+     position: relative;
+    left: 0;
+    top: 0;
+    /* overflow-x: auto; */
+                   /* overflow-y: auto; */
+    background-image: url('shield-62b54e0d681e52a61ed87c5a7d6b5d531f3848cd69b962f84d6086b3c4cf687a.gif');
+    width: 930px;
+    height: 630px;
+    background-repeat: no-repeat;
+    /* animation-name: noi; */
+ /* animation-duration: 0.1s; */
+ /* animation-iteration-count: infinite; */
+}
+.ios h1
+{
+    border-radius: 50px;
+ position: relative;
+ left: 930px;
+ background-image: url('100w.webp');
+ top: 0px;
+ color: rgb(224, 34, 129);
+ animation-name: fr5;
+ animation-duration: 1s;
+ animation-iteration-count: infinite;
+}
+.ios h6
+{
+    border-radius: 50px;
+    overflow-y: auto;
+ overflow-x: auto;
+ position: relative;
+ left: 930px;
+ 
+ background-image: url('139-1394474_planets-universe-4-4k-hd-desktop-wallpaper.jpg');
+ top: 20px;
+ color: rgb(30, 111, 233);
+ animation-name: fr6;
+ animation-duration: 10s;
+ animation-iteration-count: infinite;
+ /* animation-name: cds1; */
+ /* animation-duration: 10s; */
+ /* animation-iteration-count: infinite; */
+}
+.ios li a
+{
+    border-radius: 50px;
+ position: relative;
+ left: 930px;
+ background-image: url('300w.webp');
+ top: 20px;
+ font-size: large;
+ color: rgb(16, 238, 238);
+ animation-name: fr7;
+ animation-duration: 1s;
+ animation-iteration-count: infinite;
+}
+.bios
+{
+    border-radius: 50px;
+    position: relative;
+    left: 100px;
+    top: 10px;
+}
+.l
+{
+    border-radius: 50px;
+           animation-name: noi8;
+ animation-duration: 10s;
+ animation-iteration-count: infinite;
+    position: relative;
+       overflow-y: auto;
+ overflow-x: auto;
+    top: 0px;
+    left: 0px;
+    height: 600px;
+    /* background-image: url('images.jpg'); */
+    /* background-repeat: no-repeat; */
+    /* background-color:rgb(7, 7, 7); */
+    background-image: url('soldier-76-2560x1600-overwatch-hd-7695.jpg');
+
+    /* background-image: url('hosted-hero-7fe4ea466881db2d14ae80f094d427e543a2c7cb34c5bd1c289312e1978e5893.gif'); */
+}
+.l h1
+{
+    border-radius: 50px;
+    position: relative;
+    background-color: rgba(18, 91, 187, 0.267);
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: initial;
+    font-feature-settings: "c2pc";
+    /* font-display: 1000; */
+    font-stretch: expanded;
+      overflow-y: auto;
+ overflow-x: auto;
+    font-kerning: auto;
+    font-variant-ligatures: inherit;
+    font-language-override: inherit;
+    /* font-size: large; */
+    font-optical-sizing: 9;
+    font-size-adjust: unset;
+    font-synthesis: style;
+    font-variant-alternates: annotation();
+    /* font-variant-caps: all-petite-caps; */
+    -moz-font-feature-settings: "swsh";
+    -webkit-font-feature-settings: "onum";
+    font-language-override: unset;
+    color: #8ecdff;
+    animation-name: fr4;
+    overflow-x: auto;
+                   overflow-y: auto;
+ animation-duration: 1s;
+ animation-iteration-count: infinite;
+ /* font-size: 10ex; */
+    top: 130px;
+}
+.l input 
+{
+    border-radius: 50px;
+    font-size: 10ex;
+ position: relative;
+    left: 180px;
+    top: 50px;
+ width: 1050px;
+   overflow-y: auto;
+ overflow-x: auto;
+ font-size: large;
+ height: 30px;
+ background-image: url('100w.webp');
+ animation-name: fr7;
+ animation-duration: 10s;
+ animation-iteration-count: infinite;
+}
+.l button
+{
+    border-radius: 50px;
+    animation-name: fr;
+ animation-duration: 1s;
+ animation-iteration-count: infinite;
+     position: relative;
+    left: 160px;
+    top: 50px;
+      overflow-y: auto;
+ overflow-x: auto;
+ /* width: 1650px; */
+ font-size: large;
+ background-image: url('100w.webp');
+    color: #8eff97;
+ height: 30px;
+}
+@keyframes fr
+{
+    0%
+    {
+        color: #8ecdff;
+    }
+    50%
+    {
+        rotate: 360;
+        color: rgb(0, 255, 221);
+        transform: rotatey(90deg);
+        /* transform: rotate3d(90deg); */
+    }
+    100%
+    {
+        /* background-image: url('838480.jpg'); */
+        color: rgb(243, 140, 23);
+    }
+}
+@keyframes fr1
+{
+    0%
+    {
+        color: #8ecdff;
+    }
+    50%
+    {
+        rotate: 360;
+        background-image: url('79384..gif');
+        
+
+        color: red;
+    }
+    100%
+    {
+        background-image: url('5085-planets-and-moons-in-universe-hq-image-free-wallpaper.jpg');
+        color: #8ee8ff;
+    }
+}
+@keyframes fr2
+{
+    0%
+    {
+        color: #8ecdff;
+    }
+    50%
+    {
+        rotate: 360;
+        /* background-image: url('300w.webp'); */
+        color: rgb(0, 102, 255);
+    }
+    100%
+    {
+        background-image: url('5085-planets-and-moons-in-universe-hq-image-free-wallpaper.jpg');
+        color: #8eff97;
+    }
+}
+@keyframes fr3
+{
+    0%
+    {
+        color: #8ecdff;
+    }
+    50%
+    {
+        rotate: 360;
+        color: rgb(174, 0, 255);
+    }
+    100%
+    {
+        color: #8eff97;
+    }
+}
+@keyframes fr4
+{
+    0%
+    {
+        color: #8ecdff;
+    }
+    50%
+    {
+        rotate: 360;
+        color: rgb(255, 102, 0);
+        transform: rotatey(20deg);
+    }
+    100%
+    {
+        color: #8ec8ff;
+    }
+}
+@keyframes fr5
+{
+    0%
+    {
+        color: #8ecdff;
+    }
+    50%
+    {
+        
+        color: rgb(224, 34, 129);
+        transform: rotatey(90deg);
+    }
+    100%
+    {
+        /* background-image: url('300w.webp'); */
+        color: #8ec8ff;
+    }
+}
+/*  */
+@keyframes fr6
+{
+    0%
+    {
+        color: #8ecdff;
+    }
+    50%
+    {
+        background-image: url('79384..gif');
+        color: rgb(30, 111, 233);
+        /* transform: rotatey(90deg); */
+    }
+    100%
+    {
+        background-image: url('5085-planets-and-moons-in-universe-hq-image-free-wallpaper.jpg');
+        color: rgb(18, 187, 187);
+    }
+}
+@keyframes fr7
+{
+    0%
+    {
+        color: #8ecdff;
+        background-image: url('100w.webp');
+        /* transform: rotatey(90deg); */
+    }
+    50%
+    {
+        color: rgb(157, 102, 219);
+        transform: rotatez(5deg);
+        /* top: 5px; */
+    }
+    100%
+    {
+        color: rgb(111, 190, 164);
+    }
+}
+@keyframes p1
+{
+    0%
+    {
+        /* color: #8ecdff; */
+        transform: rotatey(90deg);
+    }
+    50%
+    {
+        background-image: url('79384..gif');
+        color: aqua;
+        transform: rotatey(90deg);
+    }
+    90%
+    {
+        background-image: url('79384..gif');
+        transform: rotatey(90deg);
+        color: red;
+    }
+    93%
+    {
+        color: #faf9f900;
+        transform: rotatey(90deg);
+    }
+}
+@keyframes p2
+{
+    0%
+    {
+        color: #8ecdff;
+    }
+    50%
+    {
+        background-image: url('100w.webp');
+        transform: rotatex(90deg);
+    }
+    100%
+    {
+        background-image: url('p2.jpg');
+    }
+}
+@keyframes p3
+{
+    0%
+    {
+        color: #8ecdff;
+    }
+    50%
+    {
+        background-image: url('100w.webp');
+    }
+    100%
+    {
+        background-image: url('p3.jpg');
+    }
+}
+@keyframes p4
+{
+    0%
+    {
+        color: #8ecdff;
+    }
+    50%
+    {
+        background-image: url('100w.webp');
+    }
+    100%
+    {
+        background-image: url('h.jpg');
+    }
+}
+@keyframes noi
+{
+    0%
+    {
+         color: #141414;
+         background-image: url('ssd76.webp');
+    }
+    50%
+    {
+        background-image: url('shield-62b54e0d681e52a61ed87c5a7d6b5d531f3848cd69b962f84d6086b3c4cf687a.gif');
+        transform: rotatey(30deg);
+    }
+}
+@keyframes noi1
+{
+    0%
+    {
+         color: #141414;
+         background-image: url('ssd76.webp');
+    }
+    50%
+    {
+        background-image: url('hello-9cd50f821f6f6c6abddd9cd13b197fae68b3452c92c3321fefccce1f3c0e8ce4.gif');
+        transform: rotatey(30deg);
+    }
+}
+@keyframes noi3
+{
+    0%
+    {
+         color: #141414;
+         background-image: url('ssd76.webp');
+    }
+    50%
+    {
+        background-repeat: no-repeat;
+        background-image: url('bolt-833abd37a346cf4f0ef363c879bc0b190f5221d927fc48835b759a4bd0f23496.gif');
+        transform: rotatey(30deg);
+    }
+}
+@keyframes noi8
+{
+    0%
+    {
+         color: #141414;
+         background-image: url('soldier-76-2560x1600-overwatch-hd-7695.jpg');
+    }
+    30%
+    {
+        /* background-repeat: no-repeat; */
+        background-image: url('soldier-76-2560x1600-overwatch-hd-7695.jpg');
+    }
+    60%
+    {
+        background-image: url('soldier-76-2560x1600-overwatch-hd-7695.jpg');
+        transform: rotatey(0deg);
+    }
+    90%
+    {
+        color: #14141400;
+        background-image: url('soldier-76-2560x1600-overwatch-hd-7695.jpg');
+    }
+}
+@keyframes cd1
+{
+   50%
+   {
+       background-image: url('300w.webp');
+       transform: rotatey(90deg);
+   }
+   100%
+   {
+       background-image: url('100w.webp');
+   }
+}
+@keyframes cd2
+{
+   0%
+   {
+       background-image: url('100w.webp');
+   }
+   90%
+   {
+       background-image: url('300w.webp');
+   }
+}
+@keyframes rw1
+{
+  0%
+  {
+      width: 0px;
+      height: 0px;
+      border-radius: 0px;
+  }
+}
